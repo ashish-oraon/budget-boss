@@ -1,6 +1,6 @@
 {
-  "name": "Budget Boss",
-  "short_name": "Budgeting",
+  "name": "budgeting",
+  "short_name": "budgeting",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
